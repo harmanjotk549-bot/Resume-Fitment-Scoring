@@ -62,7 +62,7 @@ The dataset contains processed candidate information where each row represents a
 ## Getting Started
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/recruitment-screening.git
+git clone https://github.com/... cd recruitment-screening pip install pandas import pandas as pd
 cd recruitment-screening
 2️⃣ Install Dependencies
 pip install pandas
